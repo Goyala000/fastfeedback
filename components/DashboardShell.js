@@ -1,6 +1,5 @@
 import { Avatar, Box, Flex, Link, Icon } from "@chakra-ui/react";
 import { GiFeatheredWing } from "react-icons/gi";
-import { TbUserCircle } from "react-icons/tb";
 
 export default function DashboardShell({ children }) {
   return (
